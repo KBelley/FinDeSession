@@ -1,0 +1,27 @@
+﻿body 
+{
+
+}
+#SignIn
+{
+    background-color:grey;
+}
+#Register
+{
+    background-color: grey;
+}
+.zone
+{
+    border:1px solid black;
+    border-radius:12px;
+}
+table
+{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+td
+{
+    border:1px solid black;
+    border-radius:5px;
+    padding:10px;
+}

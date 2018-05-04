@@ -1,0 +1,271 @@
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\ApplicationInsights.config
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\csc.exe
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\vbc.exe
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\FinDeSession.dll.config
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\FinDeSession.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\FinDeSession.pdb
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AI.Web.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.Helpers.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.Mvc.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.Razor.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.Webpages.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.Webpages.Razor.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AI.Web.xml
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.Razor.xml
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.Webpages.xml
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.Webpages.Razor.xml
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.Helpers.xml
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.Mvc.xml
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\obj\Debug\FinDeSession.csprojResolveAssemblyReference.cache
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\obj\Debug\FinDeSession.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\obj\Debug\FinDeSession.pdb
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\csc.exe.config
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\csc.rsp
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\csi.exe
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\csi.exe.config
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\csi.rsp
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.AppContext.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Console.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Security.Claims.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\vbc.exe.config
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\vbc.rsp
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\EntityFramework.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\EntityFramework.SqlServer.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\EntityFramework.xml
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\EntityFramework.SqlServer.xml
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Kaleb\Documents\Visual Studio 2015\Projects\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Diagnostics.DiagnosticSource.xml
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\ApplicationInsights.config
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\FinDeSession.dll.config
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\FinDeSession.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\FinDeSession.pdb
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\csc.exe
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\csc.exe.config
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\csc.rsp
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\csi.exe
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\csi.exe.config
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\csi.rsp
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.AppContext.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Collections.Immutable.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Console.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Diagnostics.Process.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.IO.Compression.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.IO.FileSystem.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.IO.Pipes.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Reflection.Metadata.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Security.AccessControl.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Security.Claims.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Security.Principal.Windows.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Threading.Thread.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.ValueTuple.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Xml.XmlDocument.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Xml.XPath.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\vbc.exe
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\vbc.exe.config
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\vbc.rsp
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\VBCSCompiler.exe
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\VBCSCompiler.exe.config
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\EntityFramework.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\EntityFramework.SqlServer.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AI.Agent.Intercept.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AI.DependencyCollector.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AI.Web.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AI.WindowsServer.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.ApplicationInsights.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.Web.Infrastructure.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Diagnostics.DiagnosticSource.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.Helpers.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.Mvc.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.Razor.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.WebPages.Deployment.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.WebPages.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.WebPages.Razor.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\EntityFramework.xml
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\EntityFramework.SqlServer.xml
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AI.DependencyCollector.xml
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AI.Web.xml
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AI.WindowsServer.xml
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Diagnostics.DiagnosticSource.xml
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.Helpers.xml
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.Mvc.xml
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.Razor.xml
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.WebPages.xml
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.WebPages.Deployment.xml
+H:\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.WebPages.Razor.xml
+H:\FinDeSession_Kaleb-Belley\FinDeSession\obj\Debug\FinDeSession.csprojResolveAssemblyReference.cache
+H:\FinDeSession_Kaleb-Belley\FinDeSession\obj\Debug\FinDeSession.csproj.CoreCompileInputs.cache
+H:\FinDeSession_Kaleb-Belley\FinDeSession\obj\Debug\FinDeSession.csproj.CopyComplete
+H:\FinDeSession_Kaleb-Belley\FinDeSession\obj\Debug\FinDeSession.dll
+H:\FinDeSession_Kaleb-Belley\FinDeSession\obj\Debug\FinDeSession.pdb
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\ApplicationInsights.config
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\FinDeSession.dll.config
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\FinDeSession.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\FinDeSession.pdb
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\csc.exe
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\csc.exe.config
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\csc.rsp
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\csi.exe
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\csi.exe.config
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\csi.rsp
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.AppContext.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Console.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Security.Claims.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\vbc.exe
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\vbc.exe.config
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\vbc.rsp
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\EntityFramework.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\EntityFramework.SqlServer.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AI.Web.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.Helpers.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.Mvc.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.Razor.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.WebPages.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\EntityFramework.xml
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\EntityFramework.SqlServer.xml
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AI.Web.xml
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.Helpers.xml
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.Mvc.xml
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.Razor.xml
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.WebPages.xml
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\obj\Debug\FinDeSession.csprojResolveAssemblyReference.cache
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\obj\Debug\FinDeSession.csproj.CoreCompileInputs.cache
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\obj\Debug\FinDeSession.csproj.CopyComplete
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\obj\Debug\FinDeSession.dll
+C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\obj\Debug\FinDeSession.pdb

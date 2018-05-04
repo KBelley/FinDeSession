@@ -1,0 +1,60 @@
+﻿@model FinDeSession.Models.LoginInfo
+@{
+    Layout = null;
+    ViewBag.Title = "Index";
+}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link href="~/Style/StyleSheet1.css" rel="stylesheet" />
+<br />
+<br />
+<div class="row">
+    <div align="center" class="col-lg-2 col-lg-offset-5 col-2 zone">
+        <h2>Student</h2>
+        @using (Html.BeginForm("Student", "Home"))
+        {
+            @Html.ValidationSummary()
+            @Html.Label("Username")
+            @Html.TextBoxFor(x => x.Username, new { @class = "form-control" });<br />
+            @Html.Label("Password")
+            @Html.PasswordFor(x => x.Password, new { @class = "form-control" });<br />
+            <input type="submit" class="form-control" id="SignIn" value="Sign In">
+        }
+        @using (Html.BeginForm("RegisterStudent", "Student"))
+        {
+            <input type="submit" id="Register" class="form-control" value="Register" />
+        }
+    </div>
+</div><br />
+
+<div align="center" class="col-lg-2 col-lg-offset-5 col-2 zone">
+    <h2>Teacher</h2>
+    @using (Html.BeginForm("Teacher", "Home"))
+    {
+        @Html.ValidationSummary()
+        @Html.Label("Username")
+        @Html.TextBoxFor(x => x.Username, new { @class = "form-control" });<br />
+        @Html.Label("Password")
+        @Html.PasswordFor(x => x.Password, new { @class = "form-control" });<br />
+        <input type="submit" id="SignIn" class="form-control" value="Sign In">
+    }
+</div>
+
+<h2 class="hidden">Admin</h2>
+<form class="hidden" action="/Home/Admin" method="post">
+    <div class="validation-summary-valid hidden" data-valmsg-summary="true">
+        <ul class="hidden">
+            <li class="hidden" style="display:none"></li>
+        </ul>
+    </div><input class="hidden" data-val="true" data-val-required="Please enter a username" id="Username" name="Username" type="text" value="" /><br />
+    <input class="hidden" data-val="true" data-val-required="Please enter your password" id="Password" name="Password" type="password" /><br />
+    <input class="hidden" type="submit" value="Sign In">
+</form>
+<script>
+    $(document).ready()
+    {
+        console.log("ready");
+        let hide = document.getElementsByClassName("hidden");
+        $(hide).hide();
+    }
+</script>

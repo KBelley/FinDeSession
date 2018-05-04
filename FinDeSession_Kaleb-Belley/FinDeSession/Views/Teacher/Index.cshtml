@@ -1,0 +1,54 @@
+﻿@using System.Data;
+@using System.Data.SqlClient;
+@using System.Linq;
+@using FinDeSession.Models;
+@using System;
+@using System.Collections.Generic;
+@using System.Linq;
+@using System.Web;
+@using System.Web.UI;
+@using System.Web.UI.WebControls;
+@{
+    Layout = null;
+    ViewBag.Title = "Teacher";
+    FinDeSession.Models.Teacher current = (FinDeSession.Models.Teacher)Session["CurrentTeacher"];
+}
+<link href="~/Style/StyleSheet1.css" rel="stylesheet" />
+<h2>Teacher</h2>
+
+
+<table>
+    <tr><th>ID</th><th>Name</th><th>Price</th></tr>
+    @{ 
+        int number;
+        List<FinDeSession.Models.Course> lstCourse = new List<FinDeSession.Models.Course>();
+        Data data = new Data();
+        number = data.count();
+        lstCourse = data.teacherCourses(current.ID);
+        foreach (FinDeSession.Models.Course item in lstCourse)
+        {
+           <tr><td>@item.ID</td>
+            <td>@Html.ActionLink(@item.name, "ViewCourse", "Teacher", new { c_id = item.ID, t_ID = item.t_ID }, null) </td>
+            <td>@item.price</td>
+            <td>@Html.ActionLink("Add Resource","AddResource","Teacher",new { c_id = item.ID },null) </td></tr>
+        }
+                }
+</table>
+@Html.ActionLink("Ajouter", "Ajouter", new { controller = "Teacher", View = "Ajouter" })
+@*@{ 
+    String connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Kaleb\Desktop\FinDeSession_Kaleb-Belley\FinDeSession\App_Data\Database.mdf;Integrated Security=True";
+    DataTable table = new DataTable();
+    SqlDataAdapter adapter = new SqlDataAdapter();
+
+    //Create a connection to SQL DataBase
+    SqlConnection con = new SqlConnection(connectionString);
+    con.Open();
+
+    //Select all the records in database
+    string command = "select * from Courses";
+    SqlCommand cmd = new SqlCommand(command, con);
+    adapter.SelectCommand = cmd;
+
+    //Retrieve the records from database
+    adapter.Fill(table);
+}*@

@@ -1,0 +1,39 @@
+﻿@model FinDeSession.Models.Course
+@using System.Data;
+@using System.Linq;
+@using FinDeSession.Models;
+@using System;
+@using System.Collections.Generic;
+@using System.Linq;
+@using System.Web;
+@using System.Web.Mvc;
+@using FinDeSession.Models;
+
+@{
+    Layout = null;
+    ViewBag.Title = "ViewCourse";
+}
+<link href="~/Style/StyleSheet1.css" rel="stylesheet" />
+<h2>ViewCourse</h2>
+
+@{
+    Data data = new Data();
+    List<FinDeSession.Models.Student> lstStudent = new List<FinDeSession.Models.Student>();
+    lstStudent = new List<FinDeSession.Models.Student>();
+    int intCID = Convert.ToInt32(Request.QueryString["c_id"]);
+    lstStudent = data.classStudents(intCID, Convert.ToInt32(Request.QueryString["t_id"]));
+}
+<table>
+    <tr><th>ID</th><th>First Name</th><th>Last Name</th><th>Email</th></tr>
+    @{
+        foreach (FinDeSession.Models.Student stud in lstStudent)
+        {
+            <tr><td>@stud.ID</td>
+            <td>@Html.ActionLink(@stud.fName, "ViewStudent", "Teacher", new { fName = stud.fName, lName = stud.lName, s_id= stud.ID, c_id = intCID  }, null) </td>
+            <td>@Html.ActionLink(@stud.lName, "ViewStudent", "Teacher", new { fName = stud.fName, lName = stud.lName, s_id = stud.ID, c_id = intCID }, null)</td>
+            <td>@stud.email</td>
+            <td>@Html.ActionLink("Remove","Remove","Teacher",new { fName = stud.fName, lName = stud.lName, s_id = stud.ID, c_id = intCID },null)</td>
+            </tr>
+        }
+    }
+</table>

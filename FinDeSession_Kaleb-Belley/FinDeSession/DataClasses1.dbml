@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Database" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\Database.mdf;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="DatabaseConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.CourseID" Member="CourseIDs">
+    <Type Name="CourseID">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Pergatory" Member="Pergatories">
+    <Type Name="Pergatory">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="fName" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="lName" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="email" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="username" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="password" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Courses" Member="Courses">
+    <Type Name="Course">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="t_ID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Association Name="Course_Registration" Member="Registrations" ThisKey="ID" OtherKey="c_ID" Type="Registration" />
+      <Association Name="Course_Resource" Member="Resources" ThisKey="ID" OtherKey="c_id" Type="Resource" />
+      <Association Name="Course_Table" Member="Tables" ThisKey="ID" OtherKey="c_id" Type="Table" />
+      <Association Name="Teacher_Course" Member="Teacher" ThisKey="t_ID" OtherKey="ID" Type="Teacher" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PergID" Member="PergIDs">
+    <Type Name="PergID">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Registration" Member="Registrations">
+    <Type Name="Registration">
+      <Column Name="s_ID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="c_ID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="date" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="t_ID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Course_Registration" Member="Course" ThisKey="c_ID" OtherKey="ID" Type="Course" IsForeignKey="true" />
+      <Association Name="Student_Registration" Member="Student" ThisKey="s_ID" OtherKey="ID" Type="Student" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Resources" Member="Resources">
+    <Type Name="Resource">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="type" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="url" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="c_id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Course_Resource" Member="Course" ThisKey="c_id" OtherKey="ID" Type="Course" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Students" Member="Students">
+    <Type Name="Student">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="fName" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="lName" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="username" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="password" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="email" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Association Name="Student_Registration" Member="Registrations" ThisKey="ID" OtherKey="s_ID" Type="Registration" />
+    </Type>
+  </Table>
+  <Table Name="dbo.StudID" Member="StudIDs">
+    <Type Name="StudID">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[Table]" Member="Tables">
+    <Type Name="Table">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="type" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="url" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="c_id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Course_Table" Member="Course" ThisKey="c_id" OtherKey="ID" Type="Course" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Teachers" Member="Teachers">
+    <Type Name="Teacher">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="fName" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="lName" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="username" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="password" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="email" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Association Name="Teacher_Course" Member="Courses" ThisKey="ID" OtherKey="t_ID" Type="Course" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TeachID" Member="TeachIDs">
+    <Type Name="TeachID">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

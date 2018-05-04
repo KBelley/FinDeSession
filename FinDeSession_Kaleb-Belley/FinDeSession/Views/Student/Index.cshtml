@@ -1,0 +1,34 @@
+﻿@using FinDeSession.Models;
+@{
+    Layout = null;
+    ViewBag.Title = "Student";
+    FinDeSession.Models.Student student = (FinDeSession.Models.Student)Session["Current"];
+}
+<link href="~/Style/StyleSheet1.css" rel="stylesheet" />
+<h2>Student</h2>
+<h2>Welcome, @student.fName @student.lName</h2>
+<h2>Your Courses:</h2>
+<table>
+    @{
+        Data data = new Data();
+        <tr><th>ID</th><th>Name</th><th>Price</th></tr>
+
+        foreach (FinDeSession.Models.Course item in data.studentCourses(student.ID))
+        {
+            <tr>
+                <td>@item.ID</td>
+                <td>@Html.ActionLink(@item.name, "ViewResources", "Student", new { c_id = item.ID, t_ID = item.t_ID }, null) </td>
+                <td>@item.price</td>
+            </tr>
+        }
+    }
+</table><br/>
+@Html.ActionLink("View Available Courses", "AvailableCourses", "Student", new { t_ID = student.ID }, null)
+<br/>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+@Html.ActionLink("Logout", "Logout", "Student")
